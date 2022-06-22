@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+(Using react-router-dom@5 - so it's a version old. Uses Switches)
+
+Deployed to Netlify: https://githubfinder12292021.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
