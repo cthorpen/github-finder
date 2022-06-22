@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 (Using react-router-dom@5 - so it's a version old. Uses Switches)
 
-Deployed to Netlify: https://githubfinder12292021.netlify.app/
+Deployed to Netlify: https://colesgithubfinder.netlify.app/
 
 ## Available Scripts
 
